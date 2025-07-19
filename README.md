@@ -71,4 +71,4 @@ Contributions are welcome\! Please feel free to open issues or submit pull reque
 
 ## License
 
-(Add your chosen license here, e.g., MIT, Apache 2.0, etc.)
+ MIT, Apache 2.0
